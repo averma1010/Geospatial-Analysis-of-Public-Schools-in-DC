@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20191219</pubdate>
+                <title>American Community Survey 2018 Median Household Income by Tract</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This layer shows median household income by race and by age of householder. This is shown by tract boundaries and contains estimates and margins of error. There are also additional calculated attributes related to this topic, which can be mapped or used within analysis. Median income and income source is based on income in past 12 months of survey. Current Vintage: 2014-2018. Source data downloaded from https://www.census.gov/data/developers/data-sets.html. Data are based on a sample and are subject to sampling variability. The degree of uncertainty for an estimate arising from sampling variability is represented through the use of a margin of error. The value shown here is the 90 percent margin of error. The margin of error can be interpreted as providing a 90 percent probability that the interval defined by the estimate minus the margin of error and the estimate plus the margin of error (the lower and upper confidence bounds) contains the true value. In addition to sampling variability, the ACS estimates are subject to nonsampling error (for a discussion of nonsampling variability, see Accuracy of the Data). The effect of nonsampling error is not represented in these tables. For processing notes visit Esri Demographics team layers.</abstract>
+            <purpose>This layer contains data from the American Community Survey (ACS) about median household income by race and by age. 5-year estimates. Vintage: 2014-2018.</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-77.119761</westbc>
+                <eastbc>-76.909395</eastbc>
+                <northbc>38.995853</northbc>
+                <southbc>38.803121</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>ACS</themekey>
+                <themekey>Census</themekey>
+                <themekey>demographics</themekey>
+                <themekey>people</themekey>
+                <themekey>tracts</themekey>
+                <themekey>median income</themekey>
+                <themekey>Poverty</themekey>
+                <themekey>Demographics</themekey>
+                <themekey>Policy</themekey>
+                <themekey>American Community Survey</themekey>
+                <themekey>Census Bureau</themekey>
+                <themekey>esri demographics</themekey>
+                <themekey>Washington D.C.</themekey>
+                <themekey>District of Columbia</themekey>
+                <themekey>DC</themekey>
+                <themekey>DC GIS</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred>Data processing is the Esri Demographics team at https://dcgis.maps.arcgis.com/home/user.html?user=esri_demographics.
+Data download is from https://www.census.gov/data/developers/data-sets.html</datacred>
+        <native>Esri ArcGIS 12.4.2.19948</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>179</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>ACS_2018_Median_Household_Income_Variables_Tract</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Coordinates defining the features.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>GEOID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ALAND</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>AWATER</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>State</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>County</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_002E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_002M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_003E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_003M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_004E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_004M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_005E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19049_005M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013B_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013B_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013C_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013C_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013D_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013D_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013E_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013E_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013F_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013F_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013G_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013G_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013H_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013H_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013I_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19013I_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19053_001E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19053_001M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19053_002E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19053_002M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19053_003E</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19053_003M</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19053_calc_pctSelfempE</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>B19053_calc_pctSelfempM</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape__Area</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape__Length</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Area</attrlabl>
+                <attrdef>Area of feature in internal units squared.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                    
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20210105</metd>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
